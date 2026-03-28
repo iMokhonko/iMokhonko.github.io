@@ -1,0 +1,1 @@
+import{a7 as r,y as a,i as o}from"./index-DxCNx9JZ.js";function c(t,n=Number.NEGATIVE_INFINITY,e=Number.POSITIVE_INFINITY){return Math.min(e,Math.max(n,t))}function I(t){const n=r({dir:a("ltr")});return o(()=>{var e;return(t==null?void 0:t.value)||((e=n.dir)==null?void 0:e.value)||"ltr"})}export{c,I as u};
